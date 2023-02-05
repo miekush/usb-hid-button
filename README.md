@@ -7,6 +7,10 @@ Simple Programmable USB HID Button based on the Atmel ATMEGA32u4
 
 ![Board Image](https://github.com/miekush/usb-hid-button/blob/main/gerber.PNG)
 
+# Programming
+
+In order to minimize the board footprint as much as possible, I decided to program the device over USB using the factory DFU bootloader that comes preprogrammed on the ATMEGA32u4. This eliminates the need for an ICSP header footprint which frees up some space.
+
 # License
 
 MKE supports the open source hardware community by sharing hardware design files freely on GitHub!
