@@ -1,7 +1,7 @@
 # USB HID Button
 Simple Programmable USB HID Button based on the Atmel ATMEGA32u4
 
-![Board Image](https://github.com/miekush/usb-hid-button/blob/main/pcb_ortho.png)
+![Board Image](https://github.com/miekush/usb-hid-button/blob/main/pcb_ortho.PNG)
 
 # License
 
