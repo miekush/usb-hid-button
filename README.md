@@ -9,7 +9,7 @@ Simple Programmable USB HID Button based on the Atmel ATMEGA32u4
 
 # Programming
 
-In order to minimize the board footprint as much as possible, I decided to program the device over USB using the factory DFU bootloader that comes preprogrammed on the ATMEGA32u4. This eliminates the need for an ICSP header footprint which frees up some space.
+In order to minimize the board footprint as much as possible, I decided to program the device over USB using the factory DFU bootloader that comes preprogrammed on the ATMEGA32u4. This eliminates the need for an ICSP header footprint which frees up some space. RESET and HWB are available on test points to enter the device into the DFU bootloader mode.
 
 # License
 
